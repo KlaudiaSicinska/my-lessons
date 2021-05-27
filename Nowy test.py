@@ -1,2 +1,2 @@
-slownik = {"herbata" : "zwykla"}
+slownik = {"herbata" : "zielona"}
 "herbata" in slownik
